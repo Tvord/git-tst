@@ -4,3 +4,4 @@ str #2
 4 string
 
 heloo ueba!
+continue
