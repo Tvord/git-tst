@@ -1,4 +1,4 @@
 print(lolld);
-str #2
-333
-4 string
+str #2;
+333;
+4 string;
